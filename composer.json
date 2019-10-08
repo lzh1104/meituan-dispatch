@@ -1,0 +1,14 @@
+{
+    "name": "lzh1104/meituan-dispatch",
+    "type": "library",
+    "license": "MTC",
+    "authors": [
+        {
+            "name": "lzh1104",
+            "email": "wwwlzhcom@163.com"
+        }
+    ],
+    "require": {
+        "hanson/foundation-sdk": "^3.0"
+    }
+}
