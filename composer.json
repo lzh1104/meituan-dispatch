@@ -10,5 +10,15 @@
     ],
     "require": {
         "hanson/foundation-sdk": "^3.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "EasyMeituan\\MeituanDispath\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "EasyMeituan\\Tests\\": "tests/"
+        }
     }
 }
